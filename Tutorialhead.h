@@ -21,6 +21,8 @@ Description      : myNM.h
 
 extern double func(const double x);
 
+extern double hh(const double y);
+
 extern double dfunc(const double x);
 
 extern double newtonRaphson(double _x0, double _tol);
